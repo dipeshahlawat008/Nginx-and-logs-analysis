@@ -1,4 +1,4 @@
-# SentinelOps – Intelligent Server Health, Log Analysis & Optimization Platform
+# Alphaginx – Intelligent Server Health, Log Analysis & Optimization Platform
 
 A production-ready, Python-based platform that combines real-time Nginx log analysis,
 system health monitoring, anomaly detection, and smart alerting.
