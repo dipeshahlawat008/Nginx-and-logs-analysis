@@ -1,0 +1,13 @@
+log_path: sample.log
+access_log: sample.log
+error_log: error.log
+monitor_interval: 2
+cpu_threshold: 90
+memory_threshold: 90
+error_threshold_5xx: 10
+slack_webhook: ""
+email:
+  smtp_server: ""
+  smtp_port: 587
+  username: ""
+  password: ""
